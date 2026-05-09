@@ -1,1 +1,1 @@
-Update information. Lab4 for posts
+Installation: run main.py

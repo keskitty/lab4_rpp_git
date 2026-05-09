@@ -1,2 +1,2 @@
-Installation: run main.py
-cd /c/clone_rpp/lab4_rpp_git! FEATURE UPDATE FROM CLONE cd /c/clone_rpp/lab4_rpp_git!
+cat README.md! HOTFIX FROM MAIN DEV cat README.md!
+echo cat README.md! HOTFIX FROM MAIN DEV cat README.md! > README.md! FEATURE UPDATE FROM CLONE echo cat README.md! HOTFIX FROM MAIN DEV cat README.md! > README.md!
